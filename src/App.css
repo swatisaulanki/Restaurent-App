@@ -1,0 +1,155 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  width: 99vw;
+  margin: auto;
+}
+.App{
+  width: 100%;
+  
+}
+
+.add-sort{
+  width: 81%;
+  margin: 10px auto;
+}
+.add-res{
+  background-color:rgb(110, 8, 13);
+  color: white;
+  border: none;
+  padding: 10px 0px;
+  width: 100%;
+  margin: 10px auto;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.add-res h2{
+  font-size: 25px;
+}
+.sorting, .pay, .cost{
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  margin:15px auto;
+}
+.sorting button, .pay button, .cost button{
+  padding: 5px 20px;
+  height: fit-content;
+  width: fit-content;
+  margin: 0px 10px;
+  background-color:rgb(21, 154, 242);
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+
+
+
+.mapped-data{
+  width: fit-content;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3,400px);
+  gap: 25px 20px;
+  margin: 20px auto;
+}
+.card{
+  height: fit-content;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  border-radius: 10px;
+}
+.img-container{
+  width: 100%;
+  height: 300px;
+}
+.row0{
+  margin-top:-50px ;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.detail{
+  padding: 8px;
+  height: 130px;
+}
+ .row1 , .row2{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+img{
+  width: 100%;
+  height: 300px;
+  z-index: 1;
+  border-radius: 10px 10px 0px 0px;
+}
+.row1 h2{
+  font-size: 25px;
+}
+
+
+.row0{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 95%;
+  padding: 0px 5px;
+}
+
+.offer{
+  color: white;
+  background-color: rgb(217, 201, 29);
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.time{
+  padding: 5px;
+  background-color: #ffffff90;
+  z-index: 0.5;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.rating{
+  background-color: rgb(7, 235, 7);
+  height: fit-content;
+  padding: 3px;
+  color: white;
+  padding: 3px 6px;
+  border-radius: 5px;
+}
+.online-btn{
+  padding: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  color: green;
+}
+.online-btn i{
+  margin: 0px 5px;
+  background-color: #ffffff90;
+  
+}
+.costing{
+  font-size: 16px;
+
+}
+
+
+
+.Pagination{
+ margin: 20px auto;
+ width: fit-content; 
+}

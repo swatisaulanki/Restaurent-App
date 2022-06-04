@@ -1,0 +1,321 @@
+[
+    {
+     "id":1,
+     "name":"Danish-Hut",
+     "types":"Continental, Pizza, Asian, Desserts",
+     "cost":600,
+     "time":" 30 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"4.5",
+     "offer":"20% off Up to ₹50",
+     "image":"https://hips.hearstapps.com/vidthumb/images/190130-chicken-shwarma-horizontal-1551285400.png?crop=1.00xw%3A0.846xh%3B0%2C0.115xh&resize=480%3A270"    
+    },
+    {
+     "id":2,
+     "name":"7th Heaven",
+     "types":"Bakery, Fast-Food, Desserts",
+     "cost":300,
+     "time":" 31 min",
+     "payment":{
+         "card":"true",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"3.5",
+     "offer":"50% off Up to ₹120"  ,
+     "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1542062283%2Fchocolate-and-cream-layer-cake-1812-cover.jpg%3Fitok%3DrEWL7AIN"     
+    },
+    {
+     "id":3,
+     "name":"KFC",
+     "types":"Burger, Fast-Food, Biryani",
+     "cost":250,
+     "time":" 26 min",
+     "payment":{
+         "card":"true",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"4.0",
+     "image":"https://d12n9cpx6835mo.cloudfront.net/burger_zinger_combo_web_mobile.jpg?v=118.5"
+    },
+    {
+     "id":4,
+     "name":"Tandoor",
+     "types":"Seafood, North Indian, Biryani",
+     "cost":250,
+     "time":" 40 min",
+     "payment":{
+         "card":"false",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"4.2",
+     "offer":"20% off Up to ₹50",
+     "image":"https://www.spiceindiaonline.com/wp-content/uploads/2021/05/Tandoori-Chicken-20.jpg"       
+    },
+    {
+     "id":5,
+     "name":"Burger Lounge",
+     "types":"Burger, Fast Food, Beverages",
+     "cost":150,
+     "time":" 28 min",
+     "payment":{
+         "card":"false",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"3.8",
+     "offer":"30% off Up to ₹75"  ,
+     "image":"https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"       
+    },
+    {
+     "id":6,
+     "name":"Pizza Hut",
+     "types":"Pizza, Fast-Food, Desserts",
+     "cost":250,
+     "time":" 34 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"false"
+     },
+     "rating":"4.1",
+     "offer":"60% off Up to ₹120"   ,
+     "image":"https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/at1yjxed3amighwte3xc"      
+    },
+    {
+     "id":7,
+     "name":"Ideal Cafe",
+     "types":"South Indian, Ice Cream, North Indian",
+     "cost":100,
+     "time":" 40 min",
+     "payment":{
+         "card":"true",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"4.4",
+     "offer":"10% off Up to ₹40"    ,
+     "image":"https://i.ytimg.com/vi/CCab5oh0ZOc/maxresdefault.jpg"     
+    },
+    {
+     "id":8,
+     "name":"Thalassery Kitchen",
+     "types":"Kerala",
+     "cost":150,
+     "time":" 33 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"false"
+     },
+     "rating":"3.7",
+     "offer":"15% off Up to ₹30"  ,
+     "image":"http://myheartbeets.com/wp-content/uploads/2013/08/Instant-Pot-Indian-Beef-Recipe-Kerala-Beef.jpg"       
+    },
+    {
+     "id":9,
+     "name":"Olive Street Food Cafe",
+     "types":"Beverages, Burger, Ice Cream",
+     "cost":100,
+     "time":" 32 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"false"
+     },
+     "rating":"4.2",
+     "offer":"40% off Up to ₹80"   ,
+     "image":"https://instantmart.pk/wp-content/uploads/2020/09/Chatni-roll.png"      
+    },
+    {
+     "id":10,
+     "name":"Rollster",
+     "types":"Rolls, Fast Food, Beverages",
+     "cost":250,
+     "time":" 25 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"4.4",
+     "offer":"40% off Up to ₹80"  ,
+     "image":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/t/f/p2666-164380572861fa7c20467c1.jpg?tr=tr:n-xlarge"  
+    },
+    {
+     "id":11,
+     "name":"Domino's Pizza",
+     "types":"Pizza, Fast Food, Desserts",
+     "cost":150,
+     "time":" 30 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"4.5",
+     "offer":"40% off Up to ₹80"  ,
+     "image":"https://b.zmtcdn.com/data/pictures/chains/0/18739270/a3f876979c7b1a123ff8d0548d774cb1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*"  
+    },
+    {
+        "id":12,
+        "name":"McDonald's",
+        "types":"Coffee, Beverages, Burger",
+        "cost":150,
+        "time":" 32 min",
+        "payment":{
+            "card":"true",
+            "cash":"false",
+            "upi":"true"
+        },
+        "rating":"4.2",
+        "offer":"20% off Up to ₹150"   ,
+        "image":"https://s7d1.scene7.com/is/image/mcdonalds/h-mcdonalds-Big-Mac-Extra-Value-Meals:1-3-product-tile-desktop?wid=830&hei=516&dpr=off"      
+       },
+       {
+        "id":13,
+        "name":"La Pino'z Pizza",
+        "types":"Pizza, Fast Food, Beverages",
+        "cost":150,
+        "time":" 24 min",
+        "payment":{
+            "card":"true",
+            "cash":"false",
+            "upi":"false"
+        },
+        "rating":"4.0",
+        "offer":"40% off Up to ₹80"    ,
+        "image":"https://content3.jdmagicbox.com/comp/mumbai/g6/022pxx22.xx22.191109153922.f6g6/catalogue/lapinoz-pizza-mumbai-6e1yiv6trj.jpg"     
+       },
+       {
+        "id":14,
+        "name":"Hunger Lust",
+        "types":"Fast Food, Burger, Momos",
+        "cost":150,
+        "time":" 27 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"true"
+        },
+        "rating":"3.7",
+        "offer":"40% off Up to ₹80"   ,
+        "image":"https://b.zmtcdn.com/data/pictures/1/18785111/4a4e17e35caecfe0754c32be3dc89872.jpg"      
+       },
+       {
+        "id":15,
+        "name":"Dinki Dine",
+        "types":"North Indian, South Indian",
+        "cost":100,
+        "time":" 30 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"true"
+        },
+        "rating":"4.1",
+        "offer":"20% off Up to ₹50"  ,
+        "image":"https://www.thespruceeats.com/thmb/l6sPrsoFh8aV-sPNKM0zQuyPju0=/735x0/naan-leavened-indian-flatbread-1957348-final-08-116a2e523f6e4ee693b1a9655784d9b9.jpg"       
+       },
+       {
+        "id":16,
+        "name":"Laziz Pizza",
+        "types":"Pizza, Fast Food, Sandwich",
+        "cost":150,
+        "time":" 31 min",
+        "payment":{
+            "card":"true",
+            "cash":"true",
+            "upi":"false"
+        },
+        "rating":"4.1",
+        "offer":"30% off Up to ₹75"  ,
+        "image":"https://d1imm0s6tc8o7m.cloudfront.net/3c/89/8030091d4dc0a31776e3774cb8ea/laziz-pizza-logo.jpg"       
+       },
+       {
+        "id":17,
+        "name":"Shreya's Sweets",
+        "types":"Mithai, Desserts",
+        "cost":100,
+        "time":" 15 min",
+        "payment":{
+            "card":"true",
+            "cash":"false",
+            "upi":"true"
+        },
+        "rating":"4.3",
+        "offer":"10% off Up to ₹40"  ,
+        "image":"https://www.mistay.in/travel-blog/content/images/2020/07/sweets.jpg"       
+       },
+       {
+        "id":18,
+        "name":"Arabian Shawarma Hut",
+        "types":"Fast Food, Chinese, Biryani",
+        "cost":150,
+        "time":" 32 min",
+        "payment":{
+            "card":"false",
+            "cash":"false",
+            "upi":"true"
+        },
+        "rating":"3.4",
+        "offer":"20% off Up to ₹50" ,
+        "image":"https://static.onecms.io/wp-content/uploads/sites/44/2016/06/03/3758707.jpg"        
+       },
+       {
+        "id":19,
+        "name":"Kulukki Hub",
+        "types":"Beverages, Fast Food, Shake",
+        "cost":80,
+        "time":" 32 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"false"
+        },
+        "rating":"4.1",
+        "offer":"40% off Up to ₹100"  ,
+        "image":"https://media.istockphoto.com/photos/milk-shakes-in-plastic-cups-and-straws-on-a-dark-wooden-table-picture-id1311373994?b=1&k=20&m=1311373994&s=170667a&w=0&h=jBCnbjNhWueI5JJNV1Qagba2ek8PtGM9iZjmcPaSJPI="       
+       },
+       {
+        "id":20,
+        "name":"Fassos",
+        "types":"Fast Food, Rolls, Wraps",
+        "cost":100,
+        "time":" 31 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"true"
+        },
+        "rating":"4.0",
+        "offer":"40% off Up to ₹100"    ,
+        "image":"https://entrackr.com/wp-content/uploads/2017/12/faasos-image-1.jpg"     
+      
+
+
+    },
+{
+    "id":20,
+        "name":"Fassos",
+        "types":"Fast Food, Rolls, Wraps",
+        "cost":100,
+        "time":" 31 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"true"
+        },
+        "rating":"4.0",
+        "offer":"40% off Up to ₹100"    ,
+        "image":"https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Mangoes-safeda_540x.jpg?v=1649143538"  
+    }
+]
+
+
